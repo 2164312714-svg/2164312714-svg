@@ -68,16 +68,20 @@ status: Building & shipping every day
 
 ### 🛠️ Tech Stack
 
+<!-- go-skill-icons only keeps names confirmed valid; suspect names moved to shields.io badges (reliable for any text) -->
+
 **💻 编程语言**
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=rust,ts,py,js,kotlin,java,sql,go&theme=dark">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=rust,ts,py,js,kotlin,java,go&theme=dark">
+<img src="https://img.shields.io/badge/SQL-Database-FF6FB5?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 **⚙️ 后端 & 数据库**
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,redis,nginx,docker,linux,graphql&theme=dark">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,redis,nginx,docker,linux&theme=dark">
+<img src="https://img.shields.io/badge/GraphQL-API-FF6FB5?style=flat-square&logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/Axum-Rust_Web-FF6FB5?style=flat-square" />
 <img src="https://img.shields.io/badge/Leptos-Rust_UI-FF6FB5?style=flat-square" />
 </p>
@@ -85,13 +89,16 @@ status: Building & shipping every day
 **📱 前端 & 桌面**
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vue,tauri,vite,nodejs,html,css,tailwind,sass&theme=dark">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vue,tauri,vite,nodejs,html,css,tailwind&theme=dark">
+<img src="https://img.shields.io/badge/Sass-CSS-FF6FB5?style=flat-square&logo=sass&logoColor=white" />
 </p>
 
 **🧠 AI & Agent**
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,copilot,cursor,ollama,mcp,langchain&theme=dark">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,ollama,mcp,langchain&theme=dark">
+<img src="https://img.shields.io/badge/GitHub_Copilot-AI-FF6FB5?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-AI_IDE-FF6FB5?style=flat-square&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/AstrBot-Plugin_Author-FF6FB5?style=flat-square" />
 <img src="https://img.shields.io/badge/Rust-Full_stack-FF6FB5?style=flat-square" />
 </p>
@@ -99,7 +106,11 @@ status: Building & shipping every day
 **🐳 DevOps & 工程化**
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,vscode,vim,postman,prometheus,grafana&theme=dark">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,vim&theme=dark">
+<img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-FF6FB5?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-API-FF6FB5?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-Monitoring-FF6FB5?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-Dashboard-FF6FB5?style=flat-square&logo=grafana&logoColor=white" />
 </p>
 
 ---
