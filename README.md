@@ -71,27 +71,35 @@ status: Building & shipping every day
 **💻 编程语言**
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=rust,python,typescript,kotlin,java&theme=dark">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=rust,ts,py,js,kotlin,java,sql,go&theme=dark">
 </p>
 
-**⚙️ 后端 & 数据**
+**⚙️ 后端 & 数据库**
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,redis,nginx,docker,linux&theme=dark">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,redis,nginx,docker,linux,graphql&theme=dark">
+<img src="https://img.shields.io/badge/Axum-Rust_Web-FF6FB5?style=flat-square" />
+<img src="https://img.shields.io/badge/Leptos-Rust_UI-FF6FB5?style=flat-square" />
 </p>
 
 **📱 前端 & 桌面**
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vue,tauri,vite,nodejs&theme=dark">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vue,tauri,vite,nodejs,html,css,tailwind,sass&theme=dark">
 </p>
 
-**🧠 AI & 工具链**
+**🧠 AI & Agent**
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=claude,git,github,vscode&theme=dark">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,copilot,cursor,ollama,mcp,langchain&theme=dark">
 <img src="https://img.shields.io/badge/AstrBot-Plugin_Author-FF6FB5?style=flat-square" />
 <img src="https://img.shields.io/badge/Rust-Full_stack-FF6FB5?style=flat-square" />
+</p>
+
+**🐳 DevOps & 工程化**
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,vscode,vim,postman,prometheus,grafana&theme=dark">
 </p>
 
 ---
